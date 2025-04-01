@@ -1,0 +1,92 @@
+{
+  "getOptionsTypeSkew_10D": {
+    "1": "skew10D_1d",
+    "7": "skew10D_7d",
+    "14": "skew10D_14d",
+    "30": "skew10D_30d",
+    "60": "skew10D_60d",
+    "90": "skew10D_90d",
+    "180": "skew10D_180d",
+    "365": "skew10D_365d"
+  },
+  "getOptionsTypeSkew_25D": {
+    "1": "skew25D_1d",
+    "7": "skew25D_7d",
+    "14": "skew25D_14d",
+    "30": "skew25D_30d",
+    "60": "skew25D_60d",
+    "90": "skew25D_90d",
+    "180": "skew25D_180d",
+    "365": "skew25D_365d"
+  },
+  "getOptionsTypeGammaBands_1D": {
+    "u1_4": "gammaband1D_upper_1_4",
+    "u1_2": "gammaband1D_upper_1_2",
+    "u1": "gammaband1D_upper_1",
+    "u2": "gammaband1D_upper_2",
+    "l1_4": "gammaband1D_lower_1_4",
+    "l1_2": "gammaband1D_lower_1_2",
+    "l1": "gammaband1D_lower_1",
+    "l2": "gammaband1D_lower_2"
+  },
+  "getOptionsTypeGammaBands_7D": {
+    "u1_4": "gammaband7D_upper_1_4",
+    "u1_2": "gammaband7D_upper_1_2",
+    "u1": "gammaband7D_upper_1",
+    "u2": "gammaband7D_upper_2",
+    "l1_4": "gammaband7D_lower_1_4",
+    "l1_2": "gammaband7D_lower_1_2",
+    "l1": "gammaband7D_lower_1",
+    "l2": "gammaband7D_lower_2"
+  },
+  "getOptionsTypeGammaBands_30D": {
+    "u1_4": "gammaband30D_upper_1_4",
+    "u1_2": "gammaband30D_upper_1_2",
+    "u1": "gammaband30D_upper_1",
+    "u2": "gammaband30D_upper_2",
+    "l1_4": "gammaband30D_lower_1_4",
+    "l1_2": "gammaband30D_lower_1_2",
+    "l1": "gammaband30D_lower_1",
+    "l2": "gammaband30D_lower_2"
+  },
+  "getOptionsTypeButterfly_10D": {
+    "1": "butterfly10D_1d",
+    "7": "butterfly10D_7d",
+    "14": "butterfly10D_14d",
+    "30": "butterfly10D_30d",
+    "60": "butterfly10D_60d",
+    "90": "butterfly10D_90d",
+    "180": "butterfly10D_180d",
+    "365": "butterfly10D_365d"
+  },
+  "getOptionsTypeButterfly_25D": {
+    "1": "butterfly25D_1d",
+    "7": "butterfly25D_7d",
+    "14": "butterfly25D_14d",
+    "30": "butterfly25D_30d",
+    "60": "butterfly25D_60d",
+    "90": "butterfly25D_90d",
+    "180": "butterfly25D_180d",
+    "365": "butterfly25D_365d"
+  },
+  "getOptionsTypeRiskReversal_10D": {
+    "1": "riskreversal10D_1d",
+    "7": "riskreversal10D_7d",
+    "14": "riskreversal10D_14d",
+    "30": "riskreversal10D_30d",
+    "60": "riskreversal10D_60d",
+    "90": "riskreversal10D_90d",
+    "180": "riskreversal10D_180d",
+    "365": "riskreversal10D_365d"
+  },
+  "getOptionsTypeRiskReversal_25D": {
+    "1": "riskreversal25D_1d",
+    "7": "riskreversal25D_7d",
+    "14": "riskreversal25D_14d",
+    "30": "riskreversal25D_30d",
+    "60": "riskreversal25D_60d",
+    "90": "riskreversal25D_90d",
+    "180": "riskreversal25D_180d",
+    "365": "riskreversal25D_365d"
+  }
+}

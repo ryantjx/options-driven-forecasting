@@ -1,0 +1,66 @@
+{
+    "getOptionsAtmIv" : {
+        "1" : "atmiv_1d",
+        "7" : "atmiv_7d",
+        "14" : "atmiv_14d",
+        "30" : "atmiv_30d",
+        "60" : "atmiv_60d",
+        "90" : "atmiv_90d",
+        "180" : "atmiv_180d",
+        "365" : "atmiv_365d"
+    },
+
+    "getOptionsOIPCRatio" : {
+        "pc" : "oi_pcratio",
+        "p": "oi_put",
+        "c": "oi_call",
+        "pc_p": "oi_premium_pcratio",
+        "p_p" : "oi_premium_put",
+        "c_p" : "oi_premium_call",
+        "p_notional" : "oi_put_notional",
+        "c_notional" : "oi_call_notional"
+    },
+    "getOptionsVolumePcRatio" : {
+        "pc" : "volume_pcratio",
+        "p": "volume_put",
+        "c": "volume_call",
+        "pc_p": "volume_premium_ratio",
+        "p_p" : "volume_premium_put",
+        "c_p" : "volume_premium_call",
+        "p_notional" : "volume_put_notional",
+        "c_notional" : "volume_call_notional"
+    },
+    "getOptionsGexIndex" : {
+        "gex" : "gex",
+        "vex" : "vex",
+        "gex_plus" : "gex_plus"
+    },
+    "getFuturesRealizedVolatility" : {
+        "3" : "rv_3d",
+        "7" : "rv_7d",
+        "30" : "rv_30d",
+        "60" : "rv_60d",
+        "90" : "rv_90d",
+        "180" : "rv_180d",
+        "270" : "rv_270d",
+        "365" : "rv_365d"
+    },
+    "getOptionsDvol" : {
+        "dvol" : "dvol"
+    }, 
+    "getHistoricalPerpetualDerivativesData" : {
+        "basis" : "perpetual_basis",
+        "funding" : "perpetual_funding",
+        "yield" : "perpetual_yield",
+        "volume" : "perpetual_volume",
+        "open_interest" : "perpetual_oi",
+        "long_short_ratio" : "perpetual_long_short_ratio"
+    },
+    "getOptionsVix" : {
+        "15" : "vix_15d",
+        "30" : "vix_30d",
+        "60" : "vix_60d",
+        "90" : "vix_90d",
+        "180" : "vix_180d"
+    }
+}
