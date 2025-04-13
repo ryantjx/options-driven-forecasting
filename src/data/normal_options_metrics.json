@@ -53,8 +53,7 @@
         "funding" : "perpetual_funding",
         "yield" : "perpetual_yield",
         "volume" : "perpetual_volume",
-        "open_interest" : "perpetual_oi",
-        "long_short_ratio" : "perpetual_long_short_ratio"
+        "open_interest" : "perpetual_oi"
     },
     "getOptionsVix" : {
         "15" : "vix_15d",
